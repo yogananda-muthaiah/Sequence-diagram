@@ -1,5 +1,5 @@
-# Sequence-diagram
+# Sequence Diagram
 
-## Documentation
+### Documentation
 
 * https://sequencediagram.org/instructions.html
